@@ -28,9 +28,9 @@ Calculus II GIR ![](/images/educator/icon-question-gir.png)
 
 Any of the following courses at MIT will prepare you for 18.703:
 
-*   [_18.02 Calculus_](/courses/18-02sc-multivariable-calculus-fall-2010/)
-*   [_18.022 Calculus_](/courses/18-022-calculus-of-several-variables-fall-2010/)
-*   [_18.024 Calculus with Theory_](/courses/18-024-multivariable-calculus-with-theory-spring-2011/)
+*   [_18.02 Calculus_](/courses/18-02sc-multivariable-calculus-fall-2010)
+*   [_18.022 Calculus_](/courses/18-022-calculus-of-several-variables-fall-2010)
+*   [_18.024 Calculus with Theory_](/courses/18-024-multivariable-calculus-with-theory-spring-2011)
 *   [_18.02A Calculus_](http://student.mit.edu/catalog/m18a.html#18.02A)
 *   [_CC.1802 Calculus_](http://student.mit.edu/catalog/mCCa.html#CC.1802)
 *   [_CC.182A Calculus_](http://student.mit.edu/catalog/mCCa.html#CC.182A)
@@ -39,7 +39,7 @@ Any of the following courses at MIT will prepare you for 18.703:
 
 ### Requirements Satisfied
 
-This course has similar content to [_18.702 Algebra II_](/courses/18-702-algebra-ii-spring-2011/), and at most one of the subjects can be counted toward an undergraduate [major](https://math.mit.edu/academics/undergrad/major/) or [minor](https://math.mit.edu/academics/undergrad/minor/) in mathematics.
+This course has similar content to [_18.702 Algebra II_](/courses/18-702-algebra-ii-spring-2011), and at most one of the subjects can be counted toward an undergraduate [major](https://math.mit.edu/academics/undergrad/major/) or [minor](https://math.mit.edu/academics/undergrad/minor/) in mathematics.
 
 ### Offered
 

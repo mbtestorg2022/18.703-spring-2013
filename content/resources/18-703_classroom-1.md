@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: aafe6703-d47b-813a-9b35-2f688a2ca986
 resourcetype: Image
 title: 18-703_classroom-1.jpg
 uid: df16cdf3-bc24-50ec-28fd-82e3864d06fb
